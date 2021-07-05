@@ -1,2 +1,3 @@
 first commit
 dodaliśmy notatki
+Jeszcze jedna linia w pliku
