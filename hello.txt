@@ -1,3 +1,4 @@
-first commit
+first commit - jakiś nagłówek
 dodaliśmy notatki
 Jeszcze jedna linia w pliku
+Wprowadzam zmiany w nowej gałęzi
