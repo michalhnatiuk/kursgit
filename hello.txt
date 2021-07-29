@@ -3,3 +3,4 @@ dodaliśmy notatki
 Jeszcze jedna linia w pliku
 
 dodam zmiany do stash
+Dodane zmiany przed merge
