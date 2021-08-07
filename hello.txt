@@ -4,3 +4,4 @@ Jeszcze jedna linia w pliku
 
 dodam zmiany do stash
 Dodane zmiany przed merge
+Dodana zmiana do testowania przenoszenia do skolonowanego repozytorium
