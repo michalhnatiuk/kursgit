@@ -1,1 +1,2 @@
 Jakaś notatka
+Dodaje zmianę żeby testować pull na repozytorium lokalnym
